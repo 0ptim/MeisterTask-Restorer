@@ -1,4 +1,4 @@
-# MeisterTask Tasks Restorer
+# MeisterTask Restorer
 
 1. Get your MeisterTask API key from [here](https://www.mindmeister.com/api) in the section "Personal access tokens".
 2. Find the right project for which you want to restore deleted tasks for by using `./getProject.py`.
