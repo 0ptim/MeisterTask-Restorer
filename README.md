@@ -5,7 +5,7 @@
 3. Request all deleted tasks for that project by using `./getDeletedTasks.py`.
 4. Restore all deleted tasks by using `./restoreDeletedTasks.py`.
 
-**Replace all XXX with your own values.**
+**Replace all `XXX` with your own values.**
 
 ## Python basic commands
 
